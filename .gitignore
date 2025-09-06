@@ -1,0 +1,17 @@
+# Ignore data folder
+data/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (micromamba/conda envs)
+envs/
+*.env
+*.venv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings (optional)
+.vscode/
